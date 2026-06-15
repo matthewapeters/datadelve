@@ -2,20 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/projects/agentx/</loc>
+    <loc>https://datadelve.net/</loc>
     <lastmod>2026-06-14T17:27:18-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://datadelve.net/projects/</loc>
     <lastmod>2026-06-14T17:27:18-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
-    <lastmod>2026-06-14T17:27:18-07:00</lastmod>
+    <loc>https://datadelve.net/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/agentx/day-0001/</loc>
-    <lastmod>2026-06-14T17:19:59-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://datadelve.net/tags/</loc>
   </url>
 </urlset>
